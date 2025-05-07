@@ -108,7 +108,7 @@
         </a>
       </li>
       <li>
-        <a href="https://ebook302.github.io/my-second-book/">
+        <a href="https://ebook302.github.io/my-second-book/index.html" target="_blank">
           סיפור מלחמה וחיים של שגרה – בעריכה, תתכוננו להתאהב ❤️
         </a>
       </li>
