@@ -104,7 +104,7 @@
     <ul class="books">
       <li>
         <a href="https://ebook302.github.io/my_first_book/index.html" target="_blank">
-          טיפות של מחשבה
+          טיפות של מחשבה 🌻
         </a>
       </li>
       <li>
