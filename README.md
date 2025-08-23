@@ -127,7 +127,7 @@
       </li>
     </ul>
 
-  <section style="background-color: #3f51b5; padding: 40px; margin-top: 30px; text-align: center;">
+ <section style="background-color: #3f51b5; padding: 40px; margin-top: 30px; text-align: center;">
   <h2 style="color: #fff;">✨ הקטע היומי</h2>
   <p style="font-size: 1.1em; color: #f9f5f0;">
     אחת לכמה זמן (אשתדל אחת ליום), יעלה לאתר קטע חדש שכתבתי – שיכול להיות מחשבה, השראה, קטע מספר, או משהו קטן ללב 💛<br>
@@ -135,7 +135,13 @@
   </p>
   <div style="margin-top: 20px;">
     <iframe 
-      src="https://docs.google.com/document/d/e/2PACX-1vQfPRI4hoJD8sCFeG32tCBaJzJfVkkEgxJPFfSrcv8t1yv_nAsUDuLQhe5F5Add0kOnA_laayDP3YWH/p
+      src="https://docs.google.com/document/d/e/2PACX-1vQfPRI4hoJD8sCFeG32tCBaJzJfVkkEgxJPFfSrcv8t1yv_nAsUDuLQhe5F5Add0kOnA_laayDP3YWH/pub?embedded=true" 
+      width="90%" 
+      height="600" 
+      style="border: none; max-width: 1000px;">
+    </iframe>
+  </div>
+</section>
 
 
   <section style="background-color: #fefefe; padding: 40px; margin-top: 30px;">
