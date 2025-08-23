@@ -127,21 +127,17 @@
       </li>
     </ul>
 
- <section style="background-color: #f4ede3; padding: 40px; margin-top: 30px; text-align: center; border-radius: 10px;">
+<section style="background-color: #f4ede3; padding: 40px; margin-top: 30px; text-align: center; border-radius: 10px;">
   <h2 style="color: #5e4b3c;">✨ הקטע היומי</h2>
   <p style="font-size: 1.1em; color: #5e4b3c;">
-    אחת לכמה זמן (אשתדל אחת ליום), יעלה לאתר קטע חדש שכתבתי – שיכול להיות מחשבה, השראה, קטע מספר, או משהו קטן ללב 💛<br>
-    הקטע מתחלף מעת לעת וניתן תמיד לראות את הקטע הנוכחי כאן ↓
+    אחת לכמה זמן (אשתדל אחת ליום), יעלה קטע חדש שאני כתבתי – מחשבה, השראה או משהו קטן ללב 💛<br>
+    ניתן לקרוא את הקטע המלא בלחיצה כאן ↓
   </p>
-  <div style="margin-top: 20px;">
-    <iframe 
-      src="https://docs.google.com/document/d/e/2PACX-1vQfPRI4hoJD8sCFeG32tCBaJzJfVkkEgxJPFfSrcv8t1yv_nAsUDuLQhe5F5Add0kOnA_laayDP3YWH/pub?embedded=true" 
-      width="90%" 
-      height="600" 
-      style="border: none; max-width: 1000px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-    </iframe>
-  </div>
+  <a href="daily.html" style="display: inline-block; padding: 12px 25px; margin-top: 15px; background-color: #5e4b3c; color: #f4ede3; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    הקטע היומי
+  </a>
 </section>
+
 
 
 
