@@ -133,10 +133,12 @@
     אחת לכמה זמן (אשתדל אחת ליום), יעלה קטע חדש שאני כתבתי – מחשבה, השראה או משהו קטן ללב 💛<br>
     ניתן לקרוא את הקטע המלא בלחיצה כאן ↓
   </p>
-  <a href="daily.html" style="display: inline-block; padding: 12px 25px; margin-top: 15px; background-color: #5e4b3c; color: #f4ede3; text-decoration: none; border-radius: 8px; font-weight: bold;">
-    הקטע היומי
+  <a href="daily.html" class="daily-btn">
+    הקטע היומי ➡️
   </a>
 </section>
+
+
 
 
 
