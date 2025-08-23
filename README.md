@@ -127,7 +127,7 @@
       </li>
     </ul>
 
- <section style="background-color: #3f51b5; padding: 40px; margin-top: 30px; text-align: center;">
+ <section style="background-color: #f8f1e8; padding: 40px; margin-top: 30px; text-align: center;">
   <h2 style="color: #fff;">✨ הקטע היומי</h2>
   <p style="font-size: 1.1em; color: #a1887f;">
     אחת לכמה זמן (אשתדל אחת ליום), יעלה לאתר קטע חדש שכתבתי – שיכול להיות מחשבה, השראה, קטע מספר, או משהו קטן ללב 💛<br>
