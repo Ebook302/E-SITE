@@ -127,13 +127,42 @@
       </li>
     </ul>
 
-    <h2>עקבו אחרי באינסטגרם</h2>
+    <section style="background-color: #fff8e1; padding: 40px; margin-top: 30px; text-align: center;">
+  <h2>✨ הקטע היומי</h2>
+  <p style="font-size: 1.1em;">
+    אחת לכמה זמן (אשתדל אחת ליום), יעלה לאתר קטע חדש שכתבתי – שיכול להיות מחשבה, השראה, קטע מספר, או משהו קטן ללב 💛<br>
+    הקטע מתחלף מעת לעת וניתן תמיד לראות את הקטע הנוכחי כאן ↓
+  </p>
+  <div style="margin-top: 20px;">
+    <iframe 
+      src="https://docs.google.com/document/d/e/2PACX-1vQfPRI4hoJD8sCFeG32tCBaJzJfVkkEgxJPFfSrcv8t1yv_nAsUDuLQhe5F5Add0kOnA_laayDP3YWH/pub?embedded=true" 
+      width="90%" 
+      height="600" 
+      style="border: none; max-width: 1000px;">
+    </iframe>
+  </div>
+</section>
+    
+
+  <section style="background-color: #fefefe; padding: 40px; margin-top: 30px;">
+  <h2>רכישת ספרים</h2>
+  <p>מעוניינים לרכוש עותק מהספרים שלי או לשמוע פרטים נוספים?</p>
+  <p>מוזמנים לפנות אליי במייל או באינסטגרם: 
+    <a href="mailto:my.guardian060@gmail.com" style="color: #3f51b5; text-decoration: underline;">
+      מייל - my.guardian060@gmail.com  
+      אינסטגרם - e.writ_ing
+    </a>
+  </p>
+</section>
+
+   <h2>עקבו אחרי באינסטגרם</h2>
     <p>
       <a href="https://www.instagram.com/e.writ_ing/" target="_blank">
         <i class="fab fa-instagram"></i> לעמוד האינסטגרם שלי ✨
       </a>
     </p>
   </section>
+
 
   <section class="thank-you">
     <h2>תודה!</h2>
@@ -144,6 +173,8 @@
       מקווה שנהנת 😇 לקטעים נוספים אפשר לעיין בעמוד האינסטגרם שלי
     </p>
   </section>
+
+  
 
   <div class="social-links">
     <a href="https://www.instagram.com/e.writ_ing/" target="_blank">
