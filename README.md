@@ -150,6 +150,7 @@
   <p>מוזמנים לפנות אליי במייל או באינסטגרם: 
     <a href="mailto:my.guardian060@gmail.com" style="color: #3f51b5; text-decoration: underline;">
       מייל - my.guardian060@gmail.com  
+      </p> 
       אינסטגרם - e.writ_ing
     </a>
   </p>
