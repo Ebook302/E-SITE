@@ -127,9 +127,9 @@
       </li>
     </ul>
 
-    <section style="background-color: #fff8e1; padding: 40px; margin-top: 30px; text-align: center;">
-  <h2>✨ הקטע היומי</h2>
-  <p style="font-size: 1.1em;">
+    <section style="background-color: #f9f5f0; padding: 40px; margin-top: 30px; text-align: center;">
+  <h2 style="color: #3f3f3f;">✨ הקטע היומי</h2>
+  <p style="font-size: 1.1em; color: #555;">
     אחת לכמה זמן (אשתדל אחת ליום), יעלה לאתר קטע חדש שכתבתי – שיכול להיות מחשבה, השראה, קטע מספר, או משהו קטן ללב 💛<br>
     הקטע מתחלף מעת לעת וניתן תמיד לראות את הקטע הנוכחי כאן ↓
   </p>
@@ -142,7 +142,7 @@
     </iframe>
   </div>
 </section>
-    
+
 
   <section style="background-color: #fefefe; padding: 40px; margin-top: 30px;">
   <h2>רכישת ספרים</h2>
